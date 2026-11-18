@@ -1,19 +1,17 @@
-# AI for security operations
+# AI for Security Operations
 
-Research workspace for AI-assisted security operations; roadmap and links to implemented examples.
+The maintained research roadmap for SOC prototypes, bounded defensive automation, and agent-framework integration studies.
 
-**Stage:** Research notes.
+**Stage:** research roadmap. Working control references are linked below; a deployed SOC or validated detection model is not asserted.
 
-## Place in the portfolio
+[Consolidated workspaces](docs/consolidated-workspaces.md) · [Sovereign AI & Security](https://github.com/cybersmeashish/sovereign-AI) · [Agent security tools](https://github.com/cybersmeashish/cybernonics_tools)
 
-This workspace contributes to **ai security**. The main [security portfolio](https://github.com/cybersmeashish) connects research, application controls, AI, cloud, and cryptographic readiness.
+## Next evidence
 
-## Inspection route
+1. Define a synthetic triage case and permitted analyst/tool actions.
+2. Establish a deterministic baseline and legitimate-use controls.
+3. Record provenance, retrieval boundaries, model/tool versions and operating conditions.
+4. Measure action correctness and failure behavior in a bounded evaluation.
+5. Publish observed results and open questions before expanding the workflow.
 
-Start with the [connected research notes](https://github.com/cybersmeashish/Ashish-research) and the [Sovereign AI reference implementation](https://github.com/cybersmeashish/sovereign-AI).
-
-## Evidence standard
-
-Record the source, scope, configuration, valid and denied cases, result, and limitation. A roadmap does not establish a working control, a real finding, or production adoption.
-
-For ethical hacking work, use owned or explicitly authorized targets and the applicable disclosure process.
+[Research agenda](https://github.com/cybersmeashish/Ashish-research/blob/main/research-agenda.md) · [Portfolio](https://github.com/cybersmeashish)
